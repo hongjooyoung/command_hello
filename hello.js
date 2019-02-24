@@ -1,3 +1,6 @@
+// For command line git tutorial
+// GitHub modification
+
 console.log("hello world");
 console.log("tell your world");
 console.log("tell his world");
