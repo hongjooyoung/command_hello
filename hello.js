@@ -1,5 +1,6 @@
 // For command line git tutorial
-// Local repository modification
+// First: Local repository modification
+// Second: GitHub modification
 
 console.log("hello world");
 console.log("tell your world");
